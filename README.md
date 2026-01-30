@@ -1,4 +1,4 @@
-# Korean Phoneme Onset Detection for EEG-Linguistic Feature Analysis
+# Korean Phoneme Onset Detection
 
 A Python tool for extracting phoneme onset timing from Korean speech audio, designed for EEG research investigating linguistic feature processing.
 
